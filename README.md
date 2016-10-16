@@ -1,2 +1,2 @@
 # TestGitHub
-GitHub Tutorial
+TestGitHub is a tutorial for GitHub.
