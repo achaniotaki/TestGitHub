@@ -1,1 +1,1 @@
-This is a test text file for GidHub.
+This is a test text file for GitHub.
